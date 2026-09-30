@@ -1,10 +1,9 @@
 # Hi, I'm Fatima Asif 👋
-
-🎓 Business analysis| 📊 Aspiring Business Analyst | 🤖 AI & Technology Enthusiast
+Business Analyst Student |  AI & Technology Enthusiast |  Data & Business Insights
 
 ## About Me
 
-I am a business analysis student interested in business analysis, artificial intelligence, technology, and software.
+I am a Business Analysis student with an interest in Artificial Intelligence, technology, software, and data-driven business solutions.
 
 I am currently learning new digital and AI skills and building my professional presence step by step.
 
@@ -16,20 +15,20 @@ University of Education (UE)
 ## Interests
 
 - Business Analysis
-- Artificial Intelligence
-- Technology & Software
-- Digital Skills
-- Data & Business Insights
+AI & Automation
+Data Analysis
+GitHub & Version Control
+Professional Networking
 
 ## Currently Learning
+ Business Analysis & Requirements Gathering
+-  Artificial Intelligence & AI Tools
+-  Data Analysis & Data Visualization
+-  SQL & Database Fundamentals
+-  Python for Data Analysis
+-  Git & GitHub
 
-- AI Essentials
-- Business Analysis
-- GitHub & GitHub Projects
-- Professional Networking
 
-## Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/fatima-asif-9b378543b/?isSelfProfile=true
+🔗 https://www.linkedin.com/in/fatima-asif-9b378543b/?isSelfProfile=true
 
 ⭐ Thank you for visiting my profile!
