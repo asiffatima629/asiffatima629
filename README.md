@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Fatima Asif 👋
 
-<!--
-**asiffatima629/asiffatima629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business analysis| 📊 Aspiring Business Analyst | 🤖 AI & Technology Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a business analysis student interested in business analysis, artificial intelligence, technology, and software.
+
+I am currently learning new digital and AI skills and building my professional presence step by step.
+
+## Education
+
+🎓 Bachelor of Business Analysis   
+University of Education (UE)
+
+## Interests
+
+- Business Analysis
+- Artificial Intelligence
+- Technology & Software
+- Digital Skills
+- Data & Business Insights
+
+## Currently Learning
+
+- AI Essentials
+- Business Analysis
+- GitHub & GitHub Projects
+- Professional Networking
+
+## Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/fatima-asif-9b378543b/?isSelfProfile=true
+
+⭐ Thank you for visiting my profile!
